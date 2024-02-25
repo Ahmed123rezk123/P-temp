@@ -86,7 +86,7 @@ body {
 }
 @media(max-width: 768px) {
   .links {
-    z-index: 200;
+    
   }
 }
 .links li i:hover {

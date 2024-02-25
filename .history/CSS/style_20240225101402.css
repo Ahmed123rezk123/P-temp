@@ -84,11 +84,6 @@ body {
   color: rgb(0, 166, 255 , .5);
 
 }
-@media(max-width: 768px) {
-  .links {
-    z-index: 200;
-  }
-}
 .links li i:hover {
   color: rgb(0, 166, 255 ,8);
 }
