@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100000px;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 0 30px;
+}
+.egypt {
+    position: relative;
+    font-weight: bold;
+    color:#876fb3;
+    letter-spacing: 1.5px;
+    border-right: 1px solid   gray;
+    
+}
+
+.bavbar .navbar-toggler i{
+    color: gray;
+    border-color: gray;
+    font-size: 25px;
+}
+.bavbar .navbar-toggler:focus {
+    box-shadow: none;
+}
+ 
